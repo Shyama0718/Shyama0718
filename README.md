@@ -23,14 +23,6 @@ CodeIgniter**
 - ⚡ Fun fact **I enjoy exploring new programming languages and frameworks in my free time.**
 
 <br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/susant37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susant37" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/susanta37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta37" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:25348030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:25348030" height="30" width="40" /></a>
-<a href="https://www.instagram.com/susant_37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susant_37" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@IdeaIlluminato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ideailluminato" height="30" width="40" /></a>
-</p>
 
 
 
